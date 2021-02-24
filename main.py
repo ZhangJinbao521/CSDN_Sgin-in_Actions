@@ -17,5 +17,5 @@ if __name__ == '__main__':
         "uuid": "10_36630242670-1594965914785-561624",
     }
     # 执行签到
-    requests.post(url=url, headers=headers, data=json.dumps(data)).json()
+    response = requests.post(url=url, headers=headers, data=json.dumps(data)).json()
     print(response['data']['msg'])
