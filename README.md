@@ -1,5 +1,5 @@
 # CSDN_Sgin-in_Actions
-Actions工具人自动CSDN签到
+Actions工具人CSDN自动签到
 
 ## 第八套中小学生广播体操，现在开始...
 第一节，_φ(❐_❐✧ 人丑就要多读书
