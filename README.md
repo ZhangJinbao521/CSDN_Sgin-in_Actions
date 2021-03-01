@@ -23,7 +23,7 @@ _(:ι」∠)_好饿，但是不想动
 ```python
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天运行
+    - cron: '0 0 * * *'  # 每天运行（UTC时区，BeiJing时区 +8 ）
 ```
 
 ## Secrets参数说明
